@@ -13,7 +13,7 @@ var hasChild = Boolean(prompt("Farzandlaringiz bormi ?", "ha"));
 var childAmount = Number(prompt("Farnzandlardan nechta ?", "10"));
 
 var carType = null;
-``
+
 var salary = undefined;
 
 var homeland = prompt ("Qayerda tug'ilngansiz ? ", "Afg'oniston");
